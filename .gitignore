@@ -1,4 +1,5 @@
-csv_files
+/csv_files
+/.vscode
 csv_files/company_dim.csv
 csv_files/job_postings_fact.csv
 csv_files/skills_dim.csv
